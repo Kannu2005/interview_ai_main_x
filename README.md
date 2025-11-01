@@ -15,7 +15,7 @@
   <h3 align="center">Prepwise: A job interview preparation platform powered by Vapi AI Voice agents</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="#" target="_blank"><b>JavaScript Mastery</b></a> YouTube.
+     Build this project step by step with our detailed tutorial on <a href="#" target="_blank"><b>Kannu</b></a> YouTube.
     </div>
 </div>
 
@@ -30,8 +30,6 @@
 7. 🚀 [More](#more)
 
 ## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="#" target="_blank"><b>Kannu</b></a>.
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
